@@ -14,7 +14,7 @@ export class EmployeeService {
 
   // add code
   selectEmployee: Employee; // class Employee.cs
-  employeeList: Employee[]; // add code
+  employeeList: Employee[]; 
 
   constructor(private http: Http) { } // add code
 

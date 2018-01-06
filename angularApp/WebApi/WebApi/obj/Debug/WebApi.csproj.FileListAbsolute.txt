@@ -69,3 +69,40 @@ C:\ProjetoVS2013\Crud Web Api\Projects\WebApi\WebApi\bin\Antlr3.Runtime.pdb
 C:\ProjetoVS2013\Crud Web Api\Projects\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
 C:\ProjetoVS2013\Crud Web Api\Projects\WebApi\WebApi\obj\Debug\WebApi.dll
 C:\ProjetoVS2013\Crud Web Api\Projects\WebApi\WebApi\obj\Debug\WebApi.pdb
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\WebApi.dll.config
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\WebApi.dll
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\WebApi.pdb
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\Antlr3.Runtime.dll
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\EntityFramework.dll
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\Newtonsoft.Json.dll
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Net.Http.Formatting.dll
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.Cors.dll
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.Helpers.dll
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.Http.Cors.dll
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.Http.dll
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.Http.WebHost.dll
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.Mvc.dll
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.Optimization.dll
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.Razor.dll
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.WebPages.dll
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.WebPages.Razor.dll
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\WebGrease.dll
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\EntityFramework.xml
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Net.Http.Formatting.xml
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.Http.xml
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.Http.Cors.xml
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\Newtonsoft.Json.xml
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.Helpers.xml
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.Http.WebHost.xml
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.Mvc.xml
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.Optimization.xml
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.Razor.xml
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.WebPages.xml
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\System.Web.WebPages.Razor.xml
+C:\teste_git\saladino\angularApp\WebApi\WebApi\bin\Antlr3.Runtime.pdb
+C:\teste_git\saladino\angularApp\WebApi\WebApi\obj\Debug\WebApi.csprojResolveAssemblyReference.cache
+C:\teste_git\saladino\angularApp\WebApi\WebApi\obj\Debug\WebApi.dll
+C:\teste_git\saladino\angularApp\WebApi\WebApi\obj\Debug\WebApi.pdb
